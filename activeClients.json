@@ -1,0 +1,67 @@
+{
+        "activeClients": 203,
+        "totalClients": 300,
+        "increase": 104,
+        "recentMonths": [
+                {
+                        "name": "Jan",
+                        "activeClients": "50",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "Feb",
+                        "activeClients": "55",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "Mar",
+                        "activeClients": "50",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "April",
+                        "activeClients": "65",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "May",
+                        "activeClients": "100",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "June",
+                        "activeClients": "100",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "July",
+                        "activeClients": "80",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "Aug",
+                        "activeClients": "120",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "Sep",
+                        "activeClients": "140",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "Oct",
+                        "activeClients": "110",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "Nov",
+                        "activeClients": "120",
+                        "totalClients": "200"
+                },
+                {
+                        "name": "Dec",
+                        "activeClients": "180",
+                        "totalClients": "200"
+                }
+        ]
+}
