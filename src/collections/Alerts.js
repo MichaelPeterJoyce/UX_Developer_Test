@@ -10,7 +10,7 @@ APP.Collections = APP.Collections || {};
           model: APP.Models.Alert;
 
       },
-      url: '../alerts.json'
+      url: 'https://raw.githubusercontent.com/MichaelPeterJoyce/UX_Developer_Test/master/alerts.json?token=AIismvqOtPM35DSZyxJbpxDgvDU0cML6ks5ZUGEJwA%3D%3D'
 
 
 
